@@ -1,0 +1,17 @@
+*{
+    margin:0;
+}
+body{
+    overflow: hidden;
+    height: 100vh;
+}
+#div1{
+    width:200px;
+    height: 200px;
+    border: 2px solid green;
+}
+#div2{
+    width:200px;
+    height: 200px;
+    border: 2px solid green;
+}
